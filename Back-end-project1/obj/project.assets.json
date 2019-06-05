@@ -11803,11 +11803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Proyectos\\Backend-Project\\Back-end-project1\\Back-end-project1\\Back-end-project1.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Proyectos\\Backend-Project\\Back-end-project1\\Back-end-project1.csproj",
       "projectName": "Back-end-project1",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\Proyectos\\Backend-Project\\Back-end-project1\\Back-end-project1\\Back-end-project1.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\Proyectos\\Backend-Project\\Back-end-project1\\Back-end-project1.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\Proyectos\\Backend-Project\\Back-end-project1\\Back-end-project1\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\Proyectos\\Backend-Project\\Back-end-project1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
